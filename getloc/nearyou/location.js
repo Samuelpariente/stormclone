@@ -26,7 +26,7 @@ function locate()
       success: function(){$('#change').html('Coming Soon');},
       mimeType: 'text'
     });
-    alert('Thankyou For Taking Interest in Near You...This Product is Coming Soon...');
+	    alert('Thankyou For Taking Interest in Periple...This Product is Coming Soon...');
   };
 }
 
